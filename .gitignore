@@ -1,7 +1,5 @@
 bin
-build/*.jar
 build/doc
-build/TeensyDAQ-*
 
 .project
 .settings
